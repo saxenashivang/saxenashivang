@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/saxenashivang-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shivang_saxena/)
 [![Twitter](https://img.shields.io/badge/saxenashivang-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shivang5198/)
 [![Linkedin](https://img.shields.io/badge/saxenashivang-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivang-saxena//)
-[![github](https://img.shields.io/badge/saxenashivang-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saxenashivang/)
 ![](https://komarev.com/ghpvc/?username=saxenashivang&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
  
@@ -41,10 +40,4 @@ I code with :  👇
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shivang Saxena Github Stats" src="https://github-readme-stats.vercel.app/api/?username=saxenashivang&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676%22%20height=%22192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxenashivang&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a>
   <br/>
-</details>
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=saxenashivang&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
 </details>
