@@ -2,10 +2,10 @@
 
 <div align="left">
 
+ ![](https://komarev.com/ghpvc/?username=saxenashivang&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 [![Instagram](https://img.shields.io/badge/saxenashivang-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shivang_saxena/)
 [![Twitter](https://img.shields.io/badge/saxenashivang-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shivang5198/)
 [![Linkedin](https://img.shields.io/badge/saxenashivang-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivang-saxena//)
-![](https://komarev.com/ghpvc/?username=saxenashivang&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
  
 </div>  
